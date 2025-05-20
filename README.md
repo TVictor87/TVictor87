@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TVictor87
-- 👀 I’m interested in JavaScript Coding (NodeJS & ReactJS)
+- 👋 Hi, I’m Viktor
+- 👀 I’m interested in JavaScript(TS) Coding (NodeJS & ReactJS) and Automation Testing using Cypress
 <!--- - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
